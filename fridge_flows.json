@@ -4,7 +4,7 @@
         "type": "alexa-remote-routine",
         "z": "b2c56e6cbc18c5da",
         "name": "Alexa Eltern",
-        "account": "f396ab5cbb024e80",
+        "account": "0",
         "routineNode": {
             "type": "speakAtVolume",
             "payload": {
@@ -80,7 +80,7 @@
         "type": "alexa-remote-routine",
         "z": "b2c56e6cbc18c5da",
         "name": "Alexa Eltern",
-        "account": "f396ab5cbb024e80",
+        "account": "",
         "routineNode": {
             "type": "speakAtVolume",
             "payload": {
