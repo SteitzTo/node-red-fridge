@@ -2,9 +2,9 @@
 
 Hi,
 
-At home I often had the problem, the door of the fridge in the cellar don't close exactly, thie failture is versy power consuming and resutl in a total icy fridge.
+At home I often had the problem, the door of the fridge in the cellar don't close exactly, thie failure is very power consuming and result in a total icy fridge.
 
-There is no notification or arlame when thats happend.
+There is no notification or alarm on the fridge, when thats happend.
 
 It would be nice if Alexa reminds you that the door is not correctly closed.
 
